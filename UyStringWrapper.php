@@ -1,7 +1,7 @@
 <?php
 //by Muradilsoft
 //2017/11/18
-//uighur string for PHP GD
+//uighur string util for PHP GD
 namespace Muradilsoft;
 class UyStringWrapper{
 	private $originString="";
